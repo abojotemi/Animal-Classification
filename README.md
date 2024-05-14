@@ -1,6 +1,6 @@
 # Animal-Classification
 
-Predicts the Animal based from a provided picture.
+Predicts the Animal from a provided picture.
 
 Can predict 15 animals.
 
